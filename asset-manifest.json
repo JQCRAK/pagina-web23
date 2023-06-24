@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/pagina-web23/static/css/main.f91d7699.css",
+    "main.js": "/pagina-web23/static/js/main.15942c5f.js",
+    "static/js/787.b03c144d.chunk.js": "/pagina-web23/static/js/787.b03c144d.chunk.js",
+    "static/media/lago.mp4": "/pagina-web23/static/media/lago.9c238a9ee8ea6be74990.mp4",
+    "static/media/Logo1.png": "/pagina-web23/static/media/Logo1.eea407a5a9f8856b24a7.png",
+    "static/media/logo.png": "/pagina-web23/static/media/logo.38d5c42d0c0fa53e36d9.png",
+    "static/media/juego1.jpg": "/pagina-web23/static/media/juego1.a84031fdbf5a9bd522f6.jpg",
+    "static/media/juego3.jpg": "/pagina-web23/static/media/juego3.f7b7d201ea74df4780be.jpg",
+    "static/media/juego2.jpg": "/pagina-web23/static/media/juego2.8c11c35d0923474d17dc.jpg",
+    "static/media/Netwrix.jpg": "/pagina-web23/static/media/Netwrix.616890158ffd12f49696.jpg",
+    "index.html": "/pagina-web23/index.html",
+    "main.f91d7699.css.map": "/pagina-web23/static/css/main.f91d7699.css.map",
+    "main.15942c5f.js.map": "/pagina-web23/static/js/main.15942c5f.js.map",
+    "787.b03c144d.chunk.js.map": "/pagina-web23/static/js/787.b03c144d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f91d7699.css",
+    "static/js/main.15942c5f.js"
+  ]
+}
