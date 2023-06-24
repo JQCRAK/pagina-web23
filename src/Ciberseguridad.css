@@ -1,0 +1,50 @@
+.ciberseguridad-container {
+    width: 100%;
+    padding: 40px 0;
+    text-align: center;
+    background-color: #f9f9f9;
+  }
+  
+  .ciberseguridad-content {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .ciberseguridad-title {
+    font-size: 32px;
+    color: #333;
+  }
+  
+  .ciberseguridad-description {
+    margin-top: 20px;
+    font-size: 18px;
+    color: #666;
+  }
+  
+  .ciberseguridad-card {
+    margin-top: 40px;
+    display: inline-block;
+    width: calc(50% - 20px);
+    vertical-align: top;
+    padding: 20px;
+    box-sizing: border-box;
+  }
+  
+  .ciberseguridad-icon {
+    width: 80px;
+    height: 80px;
+    margin: 0 auto;
+  }
+  
+  .ciberseguridad-card-title {
+    margin-top: 20px;
+    font-size: 24px;
+    color: #333;
+  }
+  
+  .ciberseguridad-card-description {
+    margin-top: 10px;
+    font-size: 16px;
+    color: #666;
+  }
+  

@@ -1,0 +1,80 @@
+.tienda-container {
+    background-color: #f7f7f7;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .tienda-title {
+    text-align: center;
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: #333;
+    font-family: 'Arial', sans-serif;
+  }
+  
+  .juegos-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .juego-card {
+    width: 300px;
+    margin: 30px;
+    background-color: #fff;
+    border: 5px solid #00ff11a1;
+    border-radius: 5px;
+    padding: 20px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s ease;
+  }
+  
+  .juego-card:hover {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  
+  .juego-img {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .juego-img img {
+    width: 200px;
+    height: auto;
+    object-fit: cover;
+    border-radius: 5px;
+  }
+  
+  .juego-title {
+    font-size: 18px;
+    margin-bottom: 10px;
+    color: #333;
+    font-family: 'Arial', sans-serif;
+  }
+  
+  .juego-description {
+    font-size: 14px;
+    color: #666;
+    margin-bottom: 20px;
+    font-family: 'Arial', sans-serif;
+  }
+  
+  .juego-link {
+    display: block;
+    text-align: center;
+    font-size: 16px;
+    color: #fff;
+    background-color: #61dafb;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+    font-family: 'Arial', sans-serif;
+  }
+  
+  .juego-link:hover {
+    background-color: #45b8d8;
+  }
+  

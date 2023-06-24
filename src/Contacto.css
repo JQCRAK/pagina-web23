@@ -1,0 +1,41 @@
+.contacto-container {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  }
+  
+  .background-image {
+    position: absolute;
+    top: center;
+    left: center;
+    width: 800px; 
+    height: 450px; 
+    background-size: cover;
+    background-position: center;
+    opacity: 0.1; 
+  }
+  
+
+  .contacto-content {
+    z-index: 1;
+    text-align: center;
+    color: rgb(255, 255, 255);
+  }
+  
+  .contacto-content h2 {
+    font-size: 2.5rem;
+    margin-bottom: 2rem;
+  }
+  
+  .contacto-info {
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 2rem;
+    border-radius: 10px;
+  }
+  
+  .contacto-info p {
+    margin-bottom: 0.5rem;
+  }
+  
